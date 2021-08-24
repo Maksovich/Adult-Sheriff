@@ -1,4 +1,4 @@
-# Adult Sheriff
+# Adult Sheriff (ID4541983)
 
 EN: Modification adds immortality for player.
 
